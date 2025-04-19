@@ -1,4 +1,4 @@
-# dnsmasq
+# dnsmasq (dont for use)
 docker container with dnsmasq (dns only)
 
 
